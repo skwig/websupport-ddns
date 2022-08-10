@@ -1,0 +1,10 @@
+# C#
+**/bin/
+**/obj/
+
+# Python
+**/venv/
+
+# Misc Junk
+.git
+.idea
