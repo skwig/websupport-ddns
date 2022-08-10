@@ -30,6 +30,7 @@ TODO
 
 Your docker-compose.yml file should look like this
 <h5 a><strong><code>docker-compose.yml</code></strong></h5>
+
 ```yml
 version: '3.4'
 services:
