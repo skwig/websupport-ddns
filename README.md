@@ -1,5 +1,7 @@
 # websupport-ddns
 
+[![CI](https://github.com/skwig/websupport-ddns/actions/workflows/ci.yml/badge.svg)](https://github.com/skwig/websupport-ddns/actions/workflows/ci.yml)
+
 DDNS updater for [websupport.sk](websupport.sk) domains.
 
 ## How does it work
